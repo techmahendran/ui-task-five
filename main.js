@@ -1,4 +1,4 @@
-const text = 'I am Mahendran Front-end Developer';
+const text = 'Hi I am Mahendran Front-end Developer';
 
 let index = 0;
 

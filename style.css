@@ -7,4 +7,6 @@ body {
   background-color: rebeccapurple;
   font-size: 2rem;
   color: #fff;
+  font-family: sans-serif, "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Verdana, sans-serif;
 }
